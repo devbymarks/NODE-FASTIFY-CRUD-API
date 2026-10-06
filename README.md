@@ -192,4 +192,4 @@ Desenvolvedor em formação e estudante de Engenharia de Software.
 
 ---
 
-⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!
+⭐ **Gostou do projeto? Deixe uma estrela no repositório!**
