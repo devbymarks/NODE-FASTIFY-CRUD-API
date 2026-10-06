@@ -175,7 +175,7 @@ O projeto foi desenvolvido como prática de **desenvolvimento de APIs REST**, ut
 
 ## 👨‍💻 Autor
 
-**Matheus Barcelli**
+**Matheus Marks**
 
 Desenvolvedor em formação e estudante de Engenharia de Software.
 
