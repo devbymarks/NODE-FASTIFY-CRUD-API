@@ -177,7 +177,7 @@ O projeto foi desenvolvido como prática de **desenvolvimento de APIs REST**, ut
 
 **Matheus Marks**
 
-Desenvolvedor em formação e estudante de Engenharia de Software.
+Projeto desenvolvido como parte de um desafio da DIO, para praticar a criação de uma API REST com Node.js e Fastify, implementando operações CRUD.
 
 ### Tecnologias e interesses
 
