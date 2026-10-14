@@ -171,7 +171,7 @@ Isso significa que os dados são perdidos quando o servidor é encerrado ou rein
 
 ## 🎯 Objetivo
 
-O projeto foi desenvolvido como prática de **desenvolvimento de APIs REST**, utilizando Node.js e Fastify, com foco na implementação dos principais conceitos de um CRUD.
+Aplicar na prática os conceitos de APIs REST, métodos HTTP e manipulação de dados em uma aplicação CRUD, utilizando Node.js e Fastify.
 
 ## 👨‍💻 Autor
 
